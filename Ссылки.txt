@@ -1,0 +1,17 @@
+Параметры доступа к CRM системе  Creatio
+
+Адрес сервера:   https://biocodex.terrasoft.ru 
+Логин :    a.scheglova
+Пароль :   HDnc52!sx
+
+База в гугл таблице
+https://docs.google.com/spreadsheets/d/1DB-ZVEWrG2TeGcZBg4eqpEidVdrGg6pT/edit#gid=1288249296
+
+
+Registration email: sheglova-86@tenorshare.com
+
+Registration code: 356689-E585CC-CFB9A8-A2A5D9-A154A539
+
+
+python.exe -m pip install --upgrade pip - обновление selenium
+
