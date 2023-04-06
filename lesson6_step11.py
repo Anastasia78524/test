@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 
 try: 
-    link = "http://suninjuly.github.io/registration2.html"
+    link = "https://suninjuly.github.io/math.html"
     browser = webdriver.Chrome()
     browser.get(link)
 
